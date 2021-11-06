@@ -28,25 +28,25 @@
 
 ### The way into open-source
 
-* [Khan Academy's programming courses](https://www.khanacademy.org/computing/computer-programming)
+* [**Khan Academy's programming courses**](https://www.khanacademy.org/computing/computer-programming)
 * [**NVDA Screen Reader**](https://www.nvaccess.org/) ([source code](https://github.com/nvaccess/nvda))
-* [LibreOffice](https://www.libreoffice.org/) ([source code](https://www.libreoffice.org/about-us/source-code/))
+* [**LibreOffice**](https://www.libreoffice.org/) ([source code](https://www.libreoffice.org/about-us/source-code/))
 
 ### Open-source codes of conduct
 
-* [Contributor Covenant](https://www.contributor-covenant.org/)
-* [Speak Up! Community Code of Conduct](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html) (archived; original version is now offline)
-* Geek Feminism Anti-Harassment Policies: [Community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy) [Conference](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)
+* [**Contributor Covenant**](https://www.contributor-covenant.org/)
+* [**Speak Up! Community Code of Conduct**](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html) (archived; original version is now offline)
+* **Geek Feminism Anti-Harassment Policies**: [Community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy) [Conference](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)
 
 ### Sponsoring open-source
 
-* [GitHub Sponsors](https://github.com/sponsors)
-* [Outreachy](https://www.outreachy.org/)
+* [**GitHub Sponsors**](https://github.com/sponsors)
+* [**Outreachy**](https://www.outreachy.org/)
 
 ### Diversity in the workplace
 
-* [Debugging Diversity](https://debuggingdiversity.com/)
-* [The Tech Leavers Study](https://www.kaporcenter.org/tech-leavers/)
+* [**Debugging Diversity**](https://debuggingdiversity.com/)
+* [**The Tech Leavers Study**](https://www.kaporcenter.org/tech-leavers/)
 
 ## Images
 
