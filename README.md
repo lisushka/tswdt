@@ -47,7 +47,7 @@
 
 #### Black people at Amazon
 
-* [Bias, disrespect, and demotions: Black employees say Amazon has a race problem](https://www.vox.com/recode/2021/2/26/22297554/amazon-race-black-diversity-inclusionn), **Casey Newton**, *Recode*, 2021-02-06
+* [Bias, disrespect, and demotions: Black employees say Amazon has a race problem](https://www.vox.com/recode/2021/2/26/22297554/amazon-race-black-diversity-inclusionn), **Jason Del Rey**, *Recode*, 2021-02-06
 
 ### The way into open-source
 
