@@ -81,7 +81,7 @@
 
 ## Images
 
-* [**Apple Plus**](https://tinyurl.com/tswdt08), Prateek Rungta (CC-BY 2.0)
-* [**Melbourne from near the Melbourne Observatory**](https://tinyurl.com/tswdt07), John Menard (CC-BY-SA 2.0)
+* [**Apple Plus**](https://tinyurl.com/tswdt08), Prateek Rungta (CC BY 2.0)
+* [**Melbourne from near the Melbourne Observatory**](https://tinyurl.com/tswdt07), John Menard (CC BY-SA 2.0)
 
 [Back to main talks repo](https://github.com/lisushka/talks)
