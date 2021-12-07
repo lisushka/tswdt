@@ -31,3 +31,5 @@ And then - there's a set of, sort of, things that are fairly specific to the wor
 Ideally what I want is for us to come to a point where difference is ordinary and celebrated; where I can walk into a room, and others can walk into a room, and see people who look like us.  And that is really what I would like us to come to around - the particular types of stories that we tell.
 
 If you have any questions, ah, I will be around for the next 10 minutes or you can contact me on the details above.  Thank you for coming along with me as I told you this story, and I hope that this inspires you at some point to start telling the types of stories that we don't usually tell.
+
+[Back to The Stories We Don't Tell](./README.md)
