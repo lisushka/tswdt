@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **SeaGL 2021**, 2021-11-05 (not yet uploaded, [transcript](transcript.md))
+- [**SeaGL 2021**](https://seagl.org/archive/2021/the-stories-we-dont-tell), 2021-11-05 (open captions, [transcript](transcript.md))
 
 ## Graphical Recording
 
