@@ -6,7 +6,7 @@
 
 ## Graphical Recording
 
-![A hand-drawn mind map of The Stories We Don't Tell.  The main themes, which match the subheadings in the References section below, are drawn out on dotted paths,with teardrop-shaped indicators for important points.](tswdt-graphic.jpg "Graphical representation of The Stories We Don't Tell")
+![A hand-drawn mind map of The Stories We Don't Tell.  The main themes, which match the subheadings in the References section below, are drawn out on dotted paths, with teardrop-shaped indicators for important points.](tswdt-graphic.jpg "Graphical representation of The Stories We Don't Tell")
 
 ## References
 
