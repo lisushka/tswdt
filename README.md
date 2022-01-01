@@ -77,11 +77,11 @@
 
 ## Q&A (anonymised and reproduced with permission/minor edits)
 
-* **Q:** How can I tell if the community is safe?  Is the Code of Conduct enough, and what if it isn't enforced?
-* **A:** Look for communities that are transparent about how and when they enforce their Code of Conduct.  This is why transparency is so important. Even if you can't give details, being clear with your community about how many reports you receive and how many you action is a basic step that can show, rather than tell, your intent.
+* **Q:** How can I tell if the community is safe?  Is the Code of Conduct enough, and what if it isn't enforced?  
+**A:** Look for communities that are transparent about how and when they enforce their Code of Conduct.  This is why transparency is so important. Even if you can't give details, being clear with your community about how many reports you receive and how many you action is a basic step that can show, rather than tell, your intent.
 
-* **Q:** What if I'm afraid to say who I am, what I need, and what I want to build?
-* **A:** I don't know that there is a perfect answer to this.  What I do know is that most people will show different aspects of themselves in communities over time, as they become more or less comfortable within them.  That's probably the start of the answer.  The corollary is 'what if we could build a space where you go from not knowing the answers to these questions, or being afraid to share them, to knowing the answers, being able to share them, and being valued because of what you do bring?'
+* **Q:** What if I'm afraid to say who I am, what I need, and what I want to build?  
+**A:** I don't know that there is a perfect answer to this.  What I do know is that most people will show different aspects of themselves in communities over time, as they become more or less comfortable within them.  That's probably the start of the answer.  The corollary is 'what if we could build a space where you go from not knowing the answers to these questions, or being afraid to share them, to knowing the answers, being able to share them, and being valued because of what you do bring?'
 
 ## Images
 
