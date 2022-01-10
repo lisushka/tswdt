@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- [**SeaGL 2021**](https://seagl.org/archive/2021/the-stories-we-dont-tell), 2021-11-05 (open captions, [transcript](transcript.md), CC BY-SA 2.0)
+- [**SeaGL 2021**](https://seagl.org/archive/2021/the-stories-we-dont-tell), 2021-11-05 (open captions, [transcript](transcript.md), CC BY-SA 4.0)
 
 ## Graphical Recording
 
